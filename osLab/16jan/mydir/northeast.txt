@@ -1,0 +1,6 @@
+manipur	Imphal
+assam	Shillong
+sikkim	Dispur
+arunachal pradesh	Itanagar
+mizoram	Aizawal
+	

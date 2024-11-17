@@ -1,0 +1,34 @@
+1. Linux cmnds- 30 problems not as it is
+
+2. Shell scripting -
+    ~ Arithmetic & string operations.
+    ~ loops & control structures.
+    ~ convert decimal to binary.
+    ~ command line args.
+    ~ functions.
+    ~ sorting arrays.
+
+3. CPU process scheduling - avg TAT, gannt chart on paper, avg WT. (preemptive + non preemptive)
+    (1) fcfs                    (4) round robin
+    (2) sjf                     (5) srtf
+    (3) priority (nonpre)       (6) priority (pre)
+
+4. Bankers Algorithm - (Deadlock : Safe sequence as output, due to which process it is in unsafe state.)
+
+~ Deadlock identification algo. IMP
+
+~ Mem. Management - fit algos.
+
+~ Conversion of logical address into physical address.
+
+5. Page replacement
+    (1) fifo
+    (2) LRU
+    (3) optimum
+
+6. disc scheduling 
+    (1) FCFS
+    (2) SSTF
+    (3) elevator
+    ~   SCAN and CSCAN
+
